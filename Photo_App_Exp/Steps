@@ -1,0 +1,18 @@
+
+
+F.I.R.S.T Principles
+--------------------
+
+1) Fast
+2) Isolate / Independent
+3) Repeatable
+4) Self-validator
+5) Thorough / Timely -> Test coverage. Thorough should cover positive, negative, edge cases, security issues, illegal arguments and variables. In terms of time we should write test first and then write production code.
+
+
+Red -> Green -> Refactor -> Repeat
+
+Red: Write unit tests that can be failed
+Green: Write unit tests that can be passed
+Refator: Clean up and improve both unit test code and production code
+
