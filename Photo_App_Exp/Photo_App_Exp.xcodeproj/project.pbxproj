@@ -49,6 +49,7 @@
 		6D468227288B39AB007FB56D /* Photo_App_ExpUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Photo_App_ExpUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6D46822B288B39AB007FB56D /* Photo_App_ExpUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo_App_ExpUITests.swift; sourceTree = "<group>"; };
 		6D46822D288B39AB007FB56D /* Photo_App_ExpUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Photo_App_ExpUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		6D46823D288B3A48007FB56D /* Steps */ = {isa = PBXFileReference; lastKnownFileType = text; path = Steps; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		6D4681FE288B39A8007FB56D = {
 			isa = PBXGroup;
 			children = (
+				6D46823D288B3A48007FB56D /* Steps */,
 				6D468209288B39A8007FB56D /* Photo_App_Exp */,
 				6D468220288B39AB007FB56D /* Photo_App_ExpTests */,
 				6D46822A288B39AB007FB56D /* Photo_App_ExpUITests */,
