@@ -16,3 +16,6 @@ Red: Write unit tests that can be failed
 Green: Write unit tests that can be passed
 Refator: Clean up and improve both unit test code and production code
 
+100% Code Coverage: 100% of the code was tested(every line).
+
+AAA: Arange / Act / Assert
