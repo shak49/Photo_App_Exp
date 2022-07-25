@@ -9,5 +9,5 @@ import UIKit
 
 
 struct SignupResponseModel: Decodable {
-    
+    let status: String
 }
